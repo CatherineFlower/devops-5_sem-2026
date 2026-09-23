@@ -11,3 +11,4 @@
 - Docker
 
 Репозиторий для практических работ по курсу DevOps.
+# Multi-remote test
